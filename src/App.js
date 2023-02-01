@@ -1,5 +1,5 @@
 import "./styles.css";
-import "./componenets/Navbar";
+
 import React, { useState } from "react";
 
 /*Exercise 6 done
